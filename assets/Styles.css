@@ -1,0 +1,41 @@
+.Centrado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Rojo {
+  background-color: red;
+  width: 100%;
+  height: 89vh;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.Azul {
+  background-color: blue;
+  width: 90%;
+  height: 80vh;
+  padding: 20px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.Verde {
+  background-color: green;
+  width: 40%;
+  height: 70vh;
+  border-radius: 50%;
+  border: 2px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
